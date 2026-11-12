@@ -1,7 +1,7 @@
 export const site = {
   name: 'Immanuel Trummer',
   title: 'Associate Professor, Cornell University',
-  email: 'itrummer@cornell.edu',
+  email: 'dmayorsmarketingagency',
   cvPath: '/CV.pdf',
   photoPath: '/img/itrummer.png',
   github: 'https://github.com/itrummer',
